@@ -1,0 +1,3 @@
+### Best.ai
+
+Best.ai is a platform designed to assist programmers, researchers, and students in discovering top-quality online resources for comprehending various concepts or technologies. Its user-friendly interface enables users to efficiently search for resources based on specific topics. The necessity for such an application arose due to the prevalence of excellent educational materials being overshadowed by numerous low-quality resources that prioritize search engine optimization (SEO). Often, Google fails to surface the most beneficial learning resources, prompting the need for a dedicated platform like Best.ai.
